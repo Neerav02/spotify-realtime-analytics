@@ -1,0 +1,5 @@
+echo ".venv/" >> .gitignore
+echo "logs/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo ".ivy2/" >> .gitignore
+echo "hadoop/" >> .gitignore
